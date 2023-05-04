@@ -9,15 +9,15 @@
     </li>
     <li>
         Iniciar instância 
-        <img src="img/3.PNG" style="float:right"/>
+        <img src="img/3.PNG" >
     </li>
     <li>
         Buscar imagem do R-Studio
-        <img src="img/4.PNG"  style="float:right" />
+        <img src="img/4.PNG" style="display: block; margin: 0 auto;"  >
     </li>
-    <li>
+    <li >
         Instância de nível gratuito
-        <img src="img/5.PNG"   style="float:right"/>
+        <img src="img/5.PNG" style="display: block; margin: 0 auto;"  >
     </li>
     <li> Executar instância </li>
 </ol>
