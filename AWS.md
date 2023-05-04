@@ -8,8 +8,10 @@
         Pesquisar por EC2
     </li>
     <li>
+        <div style="text-align: center;">
         Iniciar instância 
         <img src="img/3.PNG" >
+         </div>
     </li>
     <li>
         Buscar imagem do R-Studio
