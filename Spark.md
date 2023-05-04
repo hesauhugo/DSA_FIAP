@@ -1,4 +1,4 @@
-## Totorial do spark
+## Tutorial do spark no R
 * seguir o link abaixo
 * <a href="https://amunategui.github.io/sparkr/">Spark</a>
 * Após criado acesse o endpoint
@@ -16,3 +16,19 @@
 * Após isso realiza  a configuração dos clusters
 * Inicializar a aplicação dentro do spark
 * Fazer um teste passando uma base para o cluster e executando o comandos head()
+
+## Spark Hand-ON
+* Opensource
+* Evolução do Hadoop
+* Hadoop = discos x Spark = memoria
+* Universidade de Barckley
+* Spark faz uso do Hadoop
+* Spark é standalone
+* Spark SQL
+* Spark Streamming
+* GraphX
+* Spark MLLib
+* Escala é a linguagem nativa
+* Python com pyspark
+* Java tem uma biblioteca comunicar com spark
+* <a href="https://cognitiveclass.ai/courses">Cognitive Class</a>
