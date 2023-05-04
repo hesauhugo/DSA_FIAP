@@ -13,11 +13,13 @@
     </li>
     <li>
         Buscar imagem do R-Studio
-        <img src="img/4.PNG" style="display: block; margin: 0 auto;"  >
+        <div style="text-align: center;">
+            <img src="img/4.PNG" style="display: block; margin: 0 auto;">
+        </div>
     </li>
     <li >
         Instância de nível gratuito
-        <img src="img/5.PNG" style="display: block; margin: 0 auto;"  >
+        <img src="img/5.PNG" style="display: block; margin: 0 auto;">
     </li>
     <li> Executar instância </li>
 </ol>
