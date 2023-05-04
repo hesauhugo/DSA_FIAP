@@ -26,4 +26,5 @@
         </div>
     </li>
     <li> Executar instância </li>
+    <li> Acessar o endpoint </li>
 </ol>
